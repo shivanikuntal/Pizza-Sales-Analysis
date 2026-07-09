@@ -31,7 +31,7 @@ The following business questions were solved using SQL:
 
 ## 🖼️ Dashboard Preview
 
-![Pizza Sales Dashboard](dashboard.png)
+![Pizza Sales Dashboard](FINAL_DASHBOARD.png)
 
 ## 📂 Repository Contents
 - SQLFULL_QUERY.sql
